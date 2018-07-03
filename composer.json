@@ -9,7 +9,7 @@
       "email": "1982127547@qq.com"
     }
   ],
-  "minimum-stability": "dev-master",
+  "minimum-stability": "dev",
   "require": {
     "php": ">=5.4.45"
   },
