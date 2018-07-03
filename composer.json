@@ -1,0 +1,21 @@
+{
+  "name": "sunmale/wx_php",
+  "description": "This all kinds off sdk for wx  ",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "sunmale",
+      "email": "1982127547@qq.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=5.4.45"
+  },
+  "autoload": {
+   "psr-4": {
+      "wx\\": "src"
+    }
+  }
+}
