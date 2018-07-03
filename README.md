@@ -1,3 +1,3 @@
-use php developer we api.
+use php developer wx api.
 
 
